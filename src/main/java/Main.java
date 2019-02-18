@@ -1,6 +1,7 @@
 import task.Task_A;
 import task.Task_B;
 import task.Task_C;
+import task.Task_D;
 
 import java.util.Arrays;
 
@@ -18,5 +19,10 @@ public class Main {
         Task_C task3 = new Task_C();
         System.out.println("Task C: " + Arrays.toString(task3.deleteSeriesOfSameElem(arr1)));
 
+        Task_D task4 = new Task_D();
+        task4.setDoorSurprise();
+        task4.printDoorInfo();
+        System.out.println("\nCount of door, where hero will die: " + task4.heroDiesCnt(0, 0));
+        task4.wayToStayLive();
     }
 }
