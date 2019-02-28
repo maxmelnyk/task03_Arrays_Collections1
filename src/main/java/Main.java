@@ -1,12 +1,34 @@
+import generic.Droid;
+import generic.DroidOne;
+import generic.DroidOneOne;
+import generic.Ship;
 import task.Task_A;
 import task.Task_B;
 import task.Task_C;
 import task.Task_D;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        Map<Long, Droid> droids = new HashMap<>();
+        droids.put(25L, new Droid("blue", true, 230.0));
+        droids.put(73L, new Droid("red", true, 320.0));
+
+        Collection<Long> keys = new ArrayList<>();
+        keys.add(23L);
+        keys.add(73L);
+
+        Ship ship = new Ship<>();
+
+        ship.putDroid(23L, droids.get(25L));
+
+        ship.putAllDroids(droids);
+        System.out.println(ship.getAllDroids(keys));
+    }
+
+    private static void taskesFromTXT(){
+
         int arr1[] = {1, 5, 7, 7, 12, 0, 6, 6, 6, 25, 6, 6, 6, 3};
         int arr2[] = {0, 2, 9, 7, 13, 25, 6, 77};
         Task_A task1 = new Task_A();

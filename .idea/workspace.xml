@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c858ae9c-3638-49bb-8f87-ee3c7b3bfa99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/Droid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/DroidOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/DroidOneOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic/Test_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task/Task_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Task_D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task/Task_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task/Task_A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task/Task_B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task/Task_B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task/Task_C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task/Task_C.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,50 +57,58 @@
     <session id="309705828">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3504" />
-          <entry key="txt" value="28" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="5520" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3504" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="JAVA" value="5520" />
+          <entry key="PLAIN_TEXT" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
+            <state relative-caret-position="385">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/DroidOneOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -101,45 +116,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="204">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <marker date="1550529771571" expanded="false" signature="2278:2412" ph="..." />
+                <element signature="e#344#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-370">
-              <caret line="462" column="31" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_C.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_B.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/Test_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/Ship.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/People.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/Droid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generic/DroidOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72964">
+              <caret line="4666" column="28" selection-start-line="4666" selection-start-column="28" selection-end-line="4666" selection-end-column="28" />
+              <folding>
+                <element signature="e#183154#183155#0" expanded="true" />
+                <element signature="e#183198#183199#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,12 +220,20 @@
         <option value="$PROJECT_DIR$/src/main/java/task/Task_B.java" />
         <option value="$PROJECT_DIR$/src/main/java/task/Task_C.java" />
         <option value="$PROJECT_DIR$/src/main/java/task/Task_D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Generic/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/People.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/DroidOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/Droid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/DroidOneOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/Ship.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -212,7 +267,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -244,18 +298,24 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="task" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="generic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550530234032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551390216122" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="generic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550517668834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished Task D">
+      <created>1550530265044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550530265044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -313,19 +380,19 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.11140725" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.09488273" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5351812" side_tool="true" visible="true" weight="0.40455532" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.46481878" visible="true" weight="0.40455532" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49946696" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5362473" side_tool="true" weight="0.40455532" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.46375266" visible="true" weight="0.15334064" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4632196" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.46268657" weight="0.2494577" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -341,7 +408,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added some fixes in printing" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some fixes in printing" />
+    <MESSAGE value="finished Task D" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Task D" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
@@ -358,13 +426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_B.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="6919">
+          <caret line="462" column="31" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -375,34 +440,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370">
-          <caret line="462" column="31" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Task.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/task/Task_D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <marker date="1550529771571" expanded="false" signature="2278:2412" ph="..." />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/DroidOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72964">
+          <caret line="4666" column="28" selection-start-line="4666" selection-start-column="28" selection-end-line="4666" selection-end-column="28" />
+          <folding>
+            <element signature="e#183154#183155#0" expanded="true" />
+            <element signature="e#183198#183199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Droid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/DroidOneOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
+        <state relative-caret-position="385">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
